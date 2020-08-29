@@ -6,7 +6,7 @@ public class Dog implements Animal  {
      
      public void animalSound() {
    
-    System.out.println("The Dow says:woof Woof");
+    System.out.println("The Dog says:woof Woof");
   }
   public void sleep() {
     
